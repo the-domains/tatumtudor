@@ -1,0 +1,28 @@
+name: TatumTudor
+favicon: null
+layout_spectrum: 0.18976574041880667
+typography_spectrum: 0.6257155782077461
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5038060231599957
+  lightness: 0.1016064309515059
+  saturation: 0.5496852051001042
+  rhythmicContrast: 0.378791679861024
+purpose: []
